@@ -22,7 +22,7 @@ temp/
 *.ogg
 *.mp3
 *.mp4
-*.png
+#*.png
 *.jpeg
 *.psd
 # compiled output
